@@ -5,14 +5,14 @@ body{
 }
 
 p {
-	font-size:5px;
+	font-size:8px;
 	line-height:8px;
 	text-align:justify;
 	-webkit-background-size:cover;
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	background: url(IMG_2758.jpeg) no-repeat center/cover;
+	background: url(IMG_2771.jpeg) no-repeat center/cover;
 	background-attachment: fixed;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: rgb(225, 225, 255, 0);
